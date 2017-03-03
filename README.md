@@ -1,6 +1,7 @@
 # JSON
+[![](https://jitpack.io/v/amirdew/JSON.svg)](https://jitpack.io/#amirdew/JSON)
+#####
 very simple and easy json parser, json generator, and data holder based on JSONArray and JSONObject for android
-
 ## Add to your project
 
 To use JSON you must add it as a dependency in your Gradle build:
