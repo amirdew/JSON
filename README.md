@@ -183,8 +183,7 @@ result:
 |:----:|:------:|:---------:|
 |add()|Object|if current related object is an array add object at end of array 
 |remove()|Object|if current related object is an array and input object exist, remove it from array
-|addWithIndex()|Object, int|if current related object is an array replace input object with object for input index
-|addWithIndex()|Object, int|if current related object is an array replace input object with object for input index
+|addWithIndex()|Object, int|if current related object is an array replace input object with object for input index 
 |removeWithIndex()|int|if current related object is an array remove object for input index
 |addEditWithKey()|String, Object|if current related object is a dictionary add input object with input key
 |removeWithKey()|String|if current related object is a dictionary remove object with input key
