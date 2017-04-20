@@ -1,4 +1,5 @@
 # JSON
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f638c4691bb9401fa68bb0164dbbd8a5)](https://www.codacy.com/app/amirdew/JSON?utm_source=github.com&utm_medium=referral&utm_content=amirdew/JSON&utm_campaign=badger)
 [![](https://jitpack.io/v/amirdew/JSON.svg)](https://jitpack.io/#amirdew/JSON)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-JSON%20Parser-green.svg?style=flat)](https://android-arsenal.com/details/1/5393)
 <br>
