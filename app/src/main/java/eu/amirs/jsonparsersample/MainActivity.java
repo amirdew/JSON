@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //parse json from asset file:
-        JSON products = new JSON(readFileFromAsset("products.json"));
+        JSON products = new JSON(readFileFromAsset("products.json")).key("products");
         for (int i = 0; i < products.count(); i++) {
             JSON productInfo = products.index(i);
             resultText += String.format("\n\n product[%d]: id:%d, name:'%s', price:%.2f, length:%.2f",

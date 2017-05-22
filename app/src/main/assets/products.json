@@ -1,4 +1,4 @@
-[
+{ "products":[
   {
     "id": 2,
     "name": "An ice sculpture",
@@ -29,3 +29,4 @@
     }
   }
 ]
+}
