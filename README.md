@@ -5,7 +5,9 @@
 <br>
 <img src="https://raw.githubusercontent.com/amirdew/JSON/master/json-image.jpg"/>
 <br>
-simple and easy json parser, json generator, and data holder based on JSONArray and JSONObject for android
+simple and easy json parser, json generator, and data holder based on JSONArray and JSONObject for android,
+<br>
+like [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) but for android
 ## Add to your project
 
 To use JSON you must add it as a dependency in your Gradle build:
